@@ -18,3 +18,4 @@ The entire process is activated by holding down the O key. When you press and ho
 
 This mod is designed to assist in quickly “surrounding” a bed with obsidian, which is useful for certain PvP or survival scenarios in Minecraft.
 - _SynFul
+(video tutorial https://www.youtube.com/watch?v=Bwgpe1weee8)
